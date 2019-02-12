@@ -3,9 +3,26 @@ Reference your projects from the summer
 If you don't have a summer project, let me know!*/
 
 body {
-    background-color: black;
+    ;
 }
 
 h1 {
-    color: pink;
+   ;
+}
+html {
+    background: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fff600+0,ea8825+29,ff2828+48,ea8825+48,2989d8+48,ff2828+48,aa1b63+71,410d54+100,207cca+100,392342+100 */
+background: #fff600; /* Old browsers */
+background: -moz-linear-gradient(top, #fff600 0%, #ea8825 29%, #ff2828 48%, #ea8825 48%, #2989d8 48%, #ff2828 48%, #aa1b63 71%, #410d54 100%, #207cca 100%, #392342 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #fff600 0%,#ea8825 29%,#ff2828 48%,#ea8825 48%,#2989d8 48%,#ff2828 48%,#aa1b63 71%,#410d54 100%,#207cca 100%,#392342 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #fff600 0%,#ea8825 29%,#ff2828 48%,#ea8825 48%,#2989d8 48%,#ff2828 48%,#aa1b63 71%,#410d54 100%,#207cca 100%,#392342 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fff600', endColorstr='#392342',GradientType=0 ); /* IE6-9 */
+    height: 100%;
+}
+
+body { background: transparent;
+    font-family: 'Average', serif;
+}
+
+head {
+   
 }
